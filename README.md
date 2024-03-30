@@ -23,6 +23,8 @@
   <a href="#"><img src="https://img.shields.io/badge/-MySQL-0D1117?logo=mysql&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/SQL%20-%230D1117.svg?logo=amazon-dynamodb&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>  
 </p>
 
 ## My Github Stats <img src="https://user-images.githubusercontent.com/76244600/130684889-4425a8ef-53ba-48f3-9433-871976fba0e9.gif" width="45px">
